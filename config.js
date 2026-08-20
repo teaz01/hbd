@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "raja",
-  photo: "./img/raja.jpeg",       // Place your photo in the img/ folder
+  photo: "./img/qr.png",       // Place your photo in the img/ folder
   music: "./music/hbd.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May u gf always be with you! ;)",
+      wishText: "jangan harap gede ya nyet, gw belum kerja :B",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "jangan harap gede ya nyet, gw belum kerja https://link.dana.id/danakaget?c=s7us22aww&r=gUg2nn&orderId=20260820101214595815010300166116193176748",
-      replayText: "Or click, if you want to watch it again.",
+      text: "may u gf always be with u ;D",
+      replayText: "pwki",
     },
   ],
 };
