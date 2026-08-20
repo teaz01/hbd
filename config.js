@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "may u gf always be with u ;D",
+      text: "may u gf always be with u",
       replayText: "pwki",
     },
   ],
